@@ -14,6 +14,9 @@
 		99F04A572750A75F0063D376 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99F04A552750A75F0063D376 /* Main.storyboard */; };
 		99F04A592750A7640063D376 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99F04A582750A7640063D376 /* Assets.xcassets */; };
 		99F04A5C2750A7640063D376 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99F04A5A2750A7640063D376 /* LaunchScreen.storyboard */; };
+		99F04A642750B0F00063D376 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99F04A632750B0F00063D376 /* FirstViewController.swift */; };
+		99F04A662750B1020063D376 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99F04A652750B1020063D376 /* SecondViewController.swift */; };
+		99F04A682750B1DA0063D376 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99F04A672750B1DA0063D376 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		99F04A582750A7640063D376 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99F04A5B2750A7640063D376 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		99F04A5D2750A7640063D376 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99F04A632750B0F00063D376 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		99F04A652750B1020063D376 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		99F04A672750B1DA0063D376 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		A645A5FE11E8BDE706875BDE /* Pods-XLPagerTab-Sample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XLPagerTab-Sample.release.xcconfig"; path = "Target Support Files/Pods-XLPagerTab-Sample/Pods-XLPagerTab-Sample.release.xcconfig"; sourceTree = "<group>"; };
 		C2735B2DF1B20598142BCF0D /* Pods_XLPagerTab_Sample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XLPagerTab_Sample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -83,6 +89,9 @@
 				99F04A4F2750A75F0063D376 /* AppDelegate.swift */,
 				99F04A512750A75F0063D376 /* SceneDelegate.swift */,
 				99F04A532750A75F0063D376 /* MainViewController.swift */,
+				99F04A632750B0F00063D376 /* FirstViewController.swift */,
+				99F04A652750B1020063D376 /* SecondViewController.swift */,
+				99F04A672750B1DA0063D376 /* ThirdViewController.swift */,
 				99F04A552750A75F0063D376 /* Main.storyboard */,
 				99F04A582750A7640063D376 /* Assets.xcassets */,
 				99F04A5A2750A7640063D376 /* LaunchScreen.storyboard */,
@@ -209,6 +218,9 @@
 				99F04A542750A75F0063D376 /* MainViewController.swift in Sources */,
 				99F04A502750A75F0063D376 /* AppDelegate.swift in Sources */,
 				99F04A522750A75F0063D376 /* SceneDelegate.swift in Sources */,
+				99F04A662750B1020063D376 /* SecondViewController.swift in Sources */,
+				99F04A682750B1DA0063D376 /* ThirdViewController.swift in Sources */,
+				99F04A642750B0F00063D376 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
